@@ -15,6 +15,7 @@ Tutorial para ilustrar como implementar uma autenticação com Spring Security e
 ## Como Executar
 - Clonar repositório git:
 ```
+git@github.com:rdgoliveiraa/jwt.git
 ```
 
 - Construir o projeto:
